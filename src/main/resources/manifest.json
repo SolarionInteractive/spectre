@@ -1,11 +1,11 @@
 {
   "Group": "Solarion",
-  "Name": "Anticheat",
+  "Name": "Spectre",
   "Version": "1.0.0",
-  "Description": "Solarfall Anticheat Plugin",
+  "Description": "Spectre Anticheat",
   "Authors": [
     {
-      "Name": "Solarion Interactive"
+      "Name": "Solarion Interactive + Contributors"
     }
   ],
   "ServerVersion": "*",
